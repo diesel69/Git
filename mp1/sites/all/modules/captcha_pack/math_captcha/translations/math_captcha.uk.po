@@ -1,0 +1,177 @@
+# Russian translation of captcha_pack (6.x-1.0-beta3)
+# Copyright (c) 2013 by the Russian translation team
+# Generated from files:
+#  math_captcha.challenge.inc,v 1.4 2009/07/24 16:14:48 soxofaan
+#  math_captcha.admin.inc,v 1.1 2007/12/22 15:13:09 soxofaan
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pack (6.x-1.0-beta3)\n"
+"POT-Creation-Date: 2013-11-27 21:57+0400\n"
+"PO-Revision-Date: 2012-12-23 17:40+0400\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+
+#: math_captcha/math_captcha.challenge.inc:96
+msgid "one"
+msgstr "один"
+
+#: math_captcha/math_captcha.challenge.inc:119
+msgid "equals"
+msgstr "равно"
+
+#: math_captcha/math_captcha.admin.inc:12
+msgid "Enabled math challenges"
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:14
+msgid "Addition: x + y = z"
+msgstr "Дополнительно: x + y = z"
+
+#: math_captcha/math_captcha.admin.inc:15
+msgid "Subtraction: x - y = z"
+msgstr "Вычитание: x - y = z"
+
+#: math_captcha/math_captcha.admin.inc:16
+msgid "Multiplication: x * y = z"
+msgstr "Умножение: x * y = z"
+
+#: math_captcha/math_captcha.admin.inc:19
+msgid "Select the math challenges you want to enable."
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:25
+msgid ""
+"When enabled, the numbers in the challenge will get a textual "
+"representation if available. E.g. \"four\" instead of \"4\"."
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:31
+msgid ""
+"When enabled, the operators in the challenge will get a textual "
+"representation if available. E.g. \"plus\" instead of \"+\"."
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:36
+msgid "Addition challenge: x + y = z"
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:40,57,74
+msgid "Maximum value for x and y"
+msgstr "Большее значение для x и y"
+
+#: math_captcha/math_captcha.admin.inc:53
+msgid "Subtraction challenge: x - y = z"
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:70
+msgid "Multiplication challenge: x * y = z"
+msgstr ""
+
+#: math_captcha/math_captcha.challenge.inc:96
+msgid "zero"
+msgstr "ноль"
+
+#: math_captcha/math_captcha.challenge.inc:96
+msgid "two"
+msgstr "два"
+
+#: math_captcha/math_captcha.challenge.inc:96
+msgid "three"
+msgstr "три"
+
+#: math_captcha/math_captcha.challenge.inc:97
+msgid "four"
+msgstr "четыре"
+
+#: math_captcha/math_captcha.challenge.inc:97
+msgid "five"
+msgstr "пять"
+
+#: math_captcha/math_captcha.challenge.inc:97
+msgid "six"
+msgstr "шесть"
+
+#: math_captcha/math_captcha.challenge.inc:98
+msgid "ten"
+msgstr "десять"
+
+#: math_captcha/math_captcha.challenge.inc:98
+msgid "eleven"
+msgstr "одиннадцать"
+
+#: math_captcha/math_captcha.challenge.inc:98
+msgid "twelve"
+msgstr "двенадцать"
+
+#: math_captcha/math_captcha.challenge.inc:99
+msgid "thirteen"
+msgstr "тринадцать"
+
+#: math_captcha/math_captcha.challenge.inc:99
+msgid "fourteen"
+msgstr "четырнадцать"
+
+#: math_captcha/math_captcha.challenge.inc:99
+msgid "fifteen"
+msgstr "пятнадцать"
+
+#: math_captcha/math_captcha.challenge.inc:104
+msgid "minus !number"
+msgstr "минус !number"
+
+#: math_captcha/math_captcha.challenge.inc:119
+msgid "plus"
+msgstr "плюс"
+
+#: math_captcha/math_captcha.challenge.inc:119
+msgid "minus"
+msgstr "минус"
+
+#: math_captcha/math_captcha.challenge.inc:119
+msgid "times"
+msgstr ""
+
+#: math_captcha/math_captcha.challenge.inc:63
+msgid "Math question"
+msgstr "Математический пример"
+
+#: math_captcha/math_captcha.challenge.inc:67
+msgid ""
+"Solve this math question and enter the solution with digits. E.g. for "
+"\"two plus four = ?\" enter \"6\"."
+msgstr ""
+
+#: math_captcha/math_captcha.challenge.inc:97
+msgid "seven"
+msgstr "семь"
+
+#: math_captcha/math_captcha.challenge.inc:97
+msgid "eight"
+msgstr "восемь"
+
+#: math_captcha/math_captcha.challenge.inc:98
+msgid "nine"
+msgstr "девять"
+
+#: math_captcha/math_captcha.admin.inc:95
+msgid "You should select at least one type of math challenges."
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:101
+msgid "Maximum value should be an integer."
+msgstr ""
+"Максимальное значение должно быть "
+"целым."
+
+#: math_captcha/math_captcha.admin.inc:106
+msgid "Maximum value should be an integer and at least 2"
+msgstr ""
+
+#: math_captcha/math_captcha.admin.inc:47,64,81
+msgid "Allow negative values."
+msgstr "Разрешить отрицательные значения."
+

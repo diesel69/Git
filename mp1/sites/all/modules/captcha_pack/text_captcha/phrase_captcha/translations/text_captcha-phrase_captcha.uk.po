@@ -1,0 +1,126 @@
+# Russian translation of captcha_pack (6.x-1.0-beta3)
+# Copyright (c) 2013 by the Russian translation team
+# Generated from files:
+#  phrase_captcha.inc,v 1.1 2008/02/13 21:51:51 soxofaan
+#  phrase_captcha.admin.inc,v 1.1 2008/02/13 21:51:51 soxofaan
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pack (6.x-1.0-beta3)\n"
+"POT-Creation-Date: 2013-11-27 21:57+0400\n"
+"PO-Revision-Date: 2013-03-12 11:57+0400\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:59
+msgid "first"
+msgstr "первое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:59
+msgid "second"
+msgstr "второе"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:59
+msgid "third"
+msgstr "третье"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:60
+msgid "fourth"
+msgstr "четвертое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:60
+msgid "fifth"
+msgstr "пятое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:60
+msgid "sixth"
+msgstr "шестое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:60
+msgid "seventh"
+msgstr "седьмое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:61
+msgid "eighth"
+msgstr "восьмое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:61
+msgid "ninth"
+msgstr "девятое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:61
+msgid "tenth"
+msgstr "десятое"
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:16
+msgid "Kind of words to use in the CAPTCHA phrase"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:18
+msgid "Generate nonsense words"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:19
+msgid "Use user defined words"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:26
+msgid "User defined word pool"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:27
+msgid ""
+"Enter the words to use in the CAPTCHA phrase (space separated, no "
+"punctuation)."
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:33
+msgid "Number of words in the CAPTCHA phrase"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:41
+msgid "Maximum number of additional words to let the user choose from"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:48
+msgid "Word selection challenges"
+msgstr "Word selection challenges"
+
+#: text_captcha/phrase_captcha/phrase_captcha.admin.inc:68
+msgid "You need to select at least one word selection criterium"
+msgstr ""
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:93
+msgid "What is the @nth word in the CAPTCHA phrase above?"
+msgstr "Выберите @nth слово в предыдущей фразе"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:99
+msgid "What is the last word in the CAPTCHA phrase above?"
+msgstr ""
+"Выберите последнее слово в предыдущей "
+"фразе"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:102
+msgid "What is the @nth last word in the CAPTCHA phrase above?"
+msgstr ""
+"Выберите @nth слово с конца предыдущей "
+"фразы"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:127
+msgid ""
+"Which word does not follow the alphabetical order in the CAPTCHA "
+"phrase above?"
+msgstr ""
+"Выберите слово, не соответствющее "
+"алфавитному порядку в предыдущей "
+"фразе"
+
+#: text_captcha/phrase_captcha/phrase_captcha.inc:142
+msgid "Which word occurs two times in the CAPTCHA phrase above?"
+msgstr ""
+"Выберите слово, встрчающееся в "
+"предыдущей фразе дважды"
+

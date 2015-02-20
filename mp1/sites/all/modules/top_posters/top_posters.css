@@ -1,0 +1,8 @@
+.view-top-posters li.views-row {
+	background: none;
+}
+
+.view-top-posters .views-field-name {
+  float: left;
+  margin-right: 5px;
+}

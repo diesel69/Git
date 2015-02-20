@@ -1,0 +1,60 @@
+# Russian translation of captcha_pack (6.x-1.0-beta3)
+# Copyright (c) 2013 by the Russian translation team
+# Generated from file: ascii_art_captcha.admin.inc,v 1.2 2007/12/22 15:24:31 soxofaan
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pack (6.x-1.0-beta3)\n"
+"POT-Creation-Date: 2013-11-27 21:57+0400\n"
+"PO-Revision-Date: 2012-04-11 01:05+0400\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:18
+msgid "Font"
+msgstr "Шрифт"
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:30
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:24
+msgid "default"
+msgstr "по умолчанию"
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:21
+msgid ""
+"Define the ASCII art font to use. Note that some characters are not "
+"very recognizable in some (small/weird) fonts. Make sure to disable "
+"the right character sets in these cases."
+msgstr ""
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:33
+msgid "Set the font size for the ASCII art."
+msgstr ""
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:39
+msgid "upper case characters"
+msgstr ""
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:40
+msgid "lower case characters"
+msgstr ""
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:41
+msgid "digits"
+msgstr "цифра"
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:44
+msgid ""
+"Enable the character sets to use in the code. Choose wisely by taking "
+"the recognizability of the used font into account."
+msgstr ""
+
+#: ascii_art_captcha/ascii_art_captcha.admin.inc:55
+msgid "You should select at least one type of characters to use."
+msgstr ""
+

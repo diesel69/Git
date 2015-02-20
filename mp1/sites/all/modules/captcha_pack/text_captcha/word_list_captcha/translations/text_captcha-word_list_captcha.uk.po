@@ -1,0 +1,23 @@
+# Russian translation of captcha_pack (6.x-1.0-beta3)
+# Copyright (c) 2013 by the Russian translation team
+# Generated from file: word_list_captcha.admin.inc,v 1.1 2008/02/13 21:17:45 soxofaan
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha_pack (6.x-1.0-beta3)\n"
+"POT-Creation-Date: 2013-11-27 21:57+0400\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+
+#: text_captcha/word_list_captcha/word_list_captcha.admin.inc:13
+msgid "Number of words in word list"
+msgstr ""
+
+#: text_captcha/word_list_captcha/word_list_captcha.admin.inc:20,27
+msgid "Word pool @num"
+msgstr ""
+
